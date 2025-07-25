@@ -1,18 +1,17 @@
 ## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Brutal)
 </p>
 
-- 🔭 I’m currently working on [Tg Bot](https://telegram.dog/MrBrutal_bots)
+- 🔭 I’m currently working on [Telegram Bots](https://telegram.dog/MrBrutal_bots)
 
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning **Python** And **Web Dev**
 
 - 🤝 I’m looking for help with **Dev**
 
-- 👨‍💻 All of my projects are available [here](https://telegram.dog/Mrbrutal_bots)
+- 👨‍💻 All of my projects are available On My Profile
 
-- 💬 Ask me about **Bot issues**
-
-- ⚡ Fun fact **I think i am funny 😁**
-
+- I Freaking Love Simple things. BCoz i believe **Simplicity Excels, Complexity Fails**
+  
+- **Talk Is Cheap Show Me The Code ** 
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 [![Stats](https://github-readme-stats.vercel.app/api?username=MrBrutalDev&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/MrBrutalDev/github-readme-stats)

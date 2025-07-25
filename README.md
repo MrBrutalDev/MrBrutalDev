@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available On My Profile
 
-- 📌 I Freaking Love Simple things. i Believe **Simplicity Excels, Complexity Fails**
+- 📌 **I Love Simple Things**. i Believe **Simplicity Excels, Complexity Fails**
   
 - 🎀 **Talk Is Cheap Show Me The Code ** 
 

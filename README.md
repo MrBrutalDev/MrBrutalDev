@@ -1,4 +1,4 @@
-## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Brutal)
+## ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=My+self+Mr.+Brutal)
 </p>
 
 - 🔭 I’m currently working on [Telegram Bots](https://telegram.dog/MrBrutal_bots)

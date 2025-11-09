@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Telegram Bots](https://telegram.dog/MrBrutal_bots)
 
-- 🌱 I’m currently learning **Python** And **Web Dev**
+- 🌱 I’m currently learning **Javascript** **Python** And **Web Dev**
 
 - 🤝 I’m looking for help with **Dev**
 

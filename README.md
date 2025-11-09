@@ -11,7 +11,7 @@
 
 - 📌 **I truly Love Simple things**. i Believe **"Simplicity Excels, Complexity Fails"**
   
-- 🎀 **Talk Is Cheap Show Me The Code ** 
+- 🎀 **Talk Is Cheap Show Me The Code** 
 
 ## ➪ 𝗚𝗜𝗧𝗛𝗨𝗕 𝗦𝗧𝗔𝗧𝗦
 [![Stats](https://github-readme-stats.vercel.app/api?username=MrBrutalDev&hide=prs&count_public=true&show_icons=true&theme=algolia)](https://github.com/MrBrutalDev/github-readme-stats)

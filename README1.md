@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello Developers, My Name Is Nitesh AKA Mister Brutal<br>I Am a 3rd Year Student Of B.Tech. <br>Currently I am Learning Full Stack Web Development And Python As Well
+Hello Developers, My Name Is Nitesh AKA Mister Brutal<br>I Am a 3rd Year Student Of B.Tech. <br>Currently I am Learning Full Stack Web Development And Python
 
 
 ## 🌐 Socials:

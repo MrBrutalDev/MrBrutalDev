@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available On My Profile
 
-- 📌 **I truly Love Simple things**. i Believe **"Simplicity Excels, Complexity Fails"**
+- 📌 **I truly Love building things**. 
   
 - 🎀 **Talk Is Cheap Show Me The Code** 
 
